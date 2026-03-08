@@ -2,8 +2,10 @@
 👨‍💻 Author
 
 Ravi Vasanth Kumar
-B.Tech Final Year – Computer Science and Engineering
+B.Tech  – Computer Science and Engineering
+
 Indian Institute of Information Technology Design and Manufacturing, Kurnool
+SIC_PROJECT
 
 2. Live Web Application
 
