@@ -5,6 +5,14 @@ Ravi Vasanth Kumar
 B.Tech Final Year – Computer Science and Engineering
 Indian Institute of Information Technology Design and Manufacturing, Kurnool
 
+2. Live Web Application
+
+App:
+
+👉 https://microfinance-credit-risking-for-rural.onrender.com
+
+Anyone can open and use it.
+
 ---
 
 # 📌 Project Overview
